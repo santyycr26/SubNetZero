@@ -1,0 +1,48 @@
+Para la siguiente web tengo unas serie de ideas que podria implementar;
+
+Web basica en la que se podran subir investigaciones personales sobre ciberseguridad, redes, hacking, etc.
+
+Que tenga una seccion central donde este la info basica de la pagina y otras dos que sean los articulos y el glosario por si no se entiende un concepto
+
+Espero que sea un buen proyecto para reforzar mi CV
+
+nvestigaciones
+Contenido profundo y original que hayas analizado tú mismo.
+
+Análisis de protocolos de red
+Comparativas de tecnologías
+Experimentos propios
+Vulnerabilidades o hallazgos
+
+📘 Guías Rápidas
+Contenido corto y práctico, directo al punto.
+
+Comandos útiles
+Configuraciones paso a paso
+Cheat sheets
+Soluciones a errores comunes
+
+🎓 Cursos
+Contenido largo y estructurado en módulos o lecciones.
+
+Curso de redes desde cero
+Introducción a Linux
+Fundamentos de ciberseguridad
+Programación para redes
+
+📝 Artículos
+Opinión, noticias o reflexiones sobre informática.
+
+Tendencias tecnológicas
+Opiniones sobre herramientas
+Resúmenes de conferencias
+Novedades del sector
+
+
+¿Cómo decidir dónde va cada cosa?
+PreguntaCategoría¿Lo investigué y analicé yo?Investigación¿Es corto y resuelve algo rápido?Guía Rápida¿Tiene varios temas relacionados en orden?Curso¿Es mi opinión o novedad del sector?Artículo
+
+Tags adicionales para filtrar dentro de cada categoría
+Además de la categoría, podrías agregar tags como:
+
+Redes Ciberseguridad Linux Programación Hardware Cloud IA
